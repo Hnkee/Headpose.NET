@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\__today\\Headpose.NET\\Headpose.NET.csproj": {}
+  },
+  "projects": {
+    "C:\\__today\\Headpose.NET\\Headpose.NET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\__today\\Headpose.NET\\Headpose.NET.csproj",
+        "projectName": "Headpose.NET",
+        "projectPath": "C:\\__today\\Headpose.NET\\Headpose.NET.csproj",
+        "packagesPath": "C:\\Users\\hnken\\.nuget\\packages\\",
+        "outputPath": "C:\\__today\\Headpose.NET\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hnken\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Nuget": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.tobii.intra/api/v2/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Tobii.StreamEngine": {
+              "target": "Package",
+              "version": "[2.2.2.363, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
