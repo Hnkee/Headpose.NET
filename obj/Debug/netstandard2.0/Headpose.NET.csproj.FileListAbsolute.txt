@@ -1,9 +1,0 @@
-C:\__today\Headpose.NET\bin\Debug\netstandard2.0\Headpose.NET.deps.json
-C:\__today\Headpose.NET\bin\Debug\netstandard2.0\Headpose.NET.dll
-C:\__today\Headpose.NET\bin\Debug\netstandard2.0\Headpose.NET.pdb
-C:\__today\Headpose.NET\obj\Debug\netstandard2.0\Headpose.NET.csprojAssemblyReference.cache
-C:\__today\Headpose.NET\obj\Debug\netstandard2.0\Headpose.NET.csproj.CoreCompileInputs.cache
-C:\__today\Headpose.NET\obj\Debug\netstandard2.0\Headpose.NET.AssemblyInfoInputs.cache
-C:\__today\Headpose.NET\obj\Debug\netstandard2.0\Headpose.NET.AssemblyInfo.cs
-C:\__today\Headpose.NET\obj\Debug\netstandard2.0\Headpose.NET.dll
-C:\__today\Headpose.NET\obj\Debug\netstandard2.0\Headpose.NET.pdb
