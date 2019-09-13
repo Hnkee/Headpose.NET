@@ -26,14 +26,14 @@ namespace Headpose.NET
 
         public float PositionX => (float) PosXFilter.Filter(_head.PositionX, Rate);
 
-        public float PositionY => (float) PosYFilter.Filter(_head.PositionX, Rate);
+        public float PositionY => (float) PosYFilter.Filter(_head.PositionY, Rate);
 
-        public float PositionZ => (float) PosZFilter.Filter(_head.PositionX, Rate);
+        public float PositionZ => (float) PosZFilter.Filter(_head.PositionZ, Rate);
 
-        public float RotationX => (float) RotXFilter.Filter(_head.PositionX, Rate);
+        public float RotationX => (float) RotXFilter.Filter(_head.RotationX, Rate);
 
-        public float RotationY => (float) RotYFilter.Filter(_head.PositionX, Rate);
+        public float RotationY => (float) RotYFilter.Filter(_head.RotationY, Rate);
 
-        public float RotationZ => (float) RotZFilter.Filter(_head.PositionX, Rate);
+        public float RotationZ => (float) RotZFilter.Filter(_head.RotationZ, Rate);
     }
 }
